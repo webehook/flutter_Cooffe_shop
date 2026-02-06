@@ -6,19 +6,19 @@ A modern Flutter application UI featuring a high-fidelity coffee shop experience
 
 <p align="center">
   <kbd>
-    <img src="screenshots/1.jpg" width="250" />
+    <img src="./screenshots/1.jpg" width="293" />
     <br>
     <b>1. Welcome Screen</b>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img src="screenshots/2.jpg" width="250" />
+    <img src="./screenshots/2.jpg" width="346" />
     <br>
     <b>2. Home (Products)</b>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img src="screenshots/3.jpg" width="250" />
+    <img src="./screenshots/3.jpg" width="386" />
     <br>
     <b>3. Product Details</b>
   </kbd>
